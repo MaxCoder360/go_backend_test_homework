@@ -1,5 +1,7 @@
 package main
 
+//lol kek
+
 import (
 	"fmt"
 )
